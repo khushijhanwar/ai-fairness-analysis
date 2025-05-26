@@ -8,7 +8,7 @@ This project explores fairness in machine learning models using Python. It inclu
 
 ## 📁 Files
 
-- `khujhanw_AI_Fairness.ipynb` — The main Jupyter notebook with analysis and code.
+- `AI_Fairness.ipynb` — The main Jupyter notebook with analysis and code.
 
 ---
 
